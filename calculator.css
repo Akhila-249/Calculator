@@ -1,0 +1,49 @@
+.calculator {
+    margin: 50px auto;
+    width: 250px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  .output {
+    margin-bottom: 10px;
+  }
+  
+  .output input[type="text"] {
+    width: 100%;
+    font-size: 24px;
+    text-align: right;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  .buttons button {
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    background-color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+  }
+  
+  .buttons button:hover {
+    background-color: #ddd;
+  }
+  .main-heading
+  {
+    font-family:"Bree Serif";
+    font-size: 40px;
+    font-weight: bold;
+    color:black;
+    text-align: center;
+    padding: 15px;
+  }
+  .bg-container{
+    background-image:url('https://img.freepik.com/free-photo/blue-wall-background_53876-88663.jpg?w=360&t=st=1687267165~exp=1687267765~hmac=a4887d4707a6ac6f28eb42de6f77632eb08d7b491c3b8d50cf1c9d0105702666');
+    height:100vh;
+    background-size:cover;
+  }
+  
